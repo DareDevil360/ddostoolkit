@@ -1,4 +1,4 @@
-# How to Run Tool
+# How to Run This Tool
 Must run it as a root user
 1) sudo su
 2) cd ddostoolkit
